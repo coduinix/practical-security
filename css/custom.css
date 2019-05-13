@@ -11,12 +11,14 @@
 #header-right {
     right: 0%;
 }
+
 #footer-left {
     position: absolute;
     bottom: 2%;
     left: 5%;
 }
 
-#header-left, #header-right, #footer-left {
-    z-index: 100;
+#footer-left > img, #footer-left small{
+    vertical-align: middle;
+    padding-right: 10px;
 }
