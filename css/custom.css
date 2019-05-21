@@ -22,3 +22,7 @@
     vertical-align: middle;
     padding-right: 10px;
 }
+
+h1.no-caps, h2.no-caps, h3.no-caps, h4.no-caps, h5.no-caps, h6.no-caps {
+    text-transform: none;
+}

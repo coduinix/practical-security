@@ -43,7 +43,8 @@ Note:
 
 Note:
 * I'm a DEV engineer
-* Who happens to like security stuff
+* Which happens to like security stuff
+* Not a security engineer
 
 ===
 
@@ -61,6 +62,7 @@ vvv
 <img class='stretch' src='/images/pixabay/server-1235959_1280.jpg'/>
 
 Note:
+* Combine software development and operations
 * Not all companies do DevOps
 * A lot do
 * One of the goals: eliminate handover and distinct responsibilities
@@ -72,94 +74,119 @@ vvv
 
 Note:
 * From couple times per year
-* To multiple times per day 
+* To multiple times per day
+* Continuous deployment 
+* How do we make sure our apps and landscape are secure?
+* We can't have the traditional tollgate which is called 'Security'
 
 vvv
 
-### Multidisciplinary
+### DevSecOps / SecDevOps
+<img class='stretch' src='/images/pixabay/notfound.jpg'/>
+
+Note:
+* Incorporate security in the DevOps way of working
+* As developer I know that naming is hard
+* In this case I don't think it's in the name, it's about making it work
+* Security first sounds good
+
+vvv
+
+### BizArchSecDevTestOps? 
+<!-- .element: class="no-caps" -->
+
+Note:
+* And how about business... and testing?
+* Before you know it looks like 'waterfall' process in one camelcased
+* Lets focus on Security today and less on naming
+
+vvv
+
+### No Silver Bullet
+* People
+* Processes
+* Tools
+
+Note:
+* Not the silver bullet, but the only slide with bullets on it.
+* Integrate in whole software development lifecycle
+* Touches people, processes, tools
 
 ===
 
-## Threats
+## People
 
 vvv
 
-### Script kiddies
+### Multi disciplinary teams
+<img class='stretch' src='/images/pixabay/notfound.jpg'/>
+
+Note:
+* Transition to Agile brought us multi disciplinary teams
+* Often comes with Shift-left movement
+* Move things to earlier stage
+* Dev, Ops and often testers in the team
+* Why not add security
 
 vvv
 
-### Professional Hackers
+### Embed security in teams
+
+Note:
 
 vvv
 
-### Nation states
+### Security engineers
 
-vvv
-
-### Competing companies
+Note:
+* Security is really specialized
+* Cultivate awareness
+* Oracle for security related questions
 
 ===
 
-
-### Secure vs Agile
-
-vvv
-
-## No tollgates
+## Processes
 
 vvv
 
-### Shift-left / DevSecOps
+### Threat model
 
 vvv
 
-### How to feel secure
+#### Script kiddies
 
 vvv
 
-### Leverage the power of DevOps
-* Quickly react to vulnerabilities
+#### Professional Hackers
 
 vvv
 
-### Right tools
+#### Nation states
 
 vvv
 
-#### Code scans
-* Dynamic vs static
+#### Competing companies
 
 vvv
 
-#### Bug bounty
-* Broad coverage
+### Design reviews
 
 vvv
 
-#### PEN-test
-* Specific areas
+### Monitor products
 
 ===
 
-## Never bugless
+## Tools
 
-vvv
-
-### Prevent
-
-vvv
-
-### Detect
-
-vvv
-
-### Act
 
 ===
 
-## THE END
-Which questions do you have?
+## Questions
+[@coduinix](https://twitter.com/coduinix)
 
+Note:
+* Which questions do you have?
 * Just ask:
   * In person
-  * Via Twitter: [@coduinix](https://twitter.com/coduinix)
+  * Via Twitter
