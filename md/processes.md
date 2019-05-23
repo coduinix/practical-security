@@ -1,30 +1,37 @@
+# Processes
+<img class='stretch' src='/images/wordcloud-processes.png'/>
 
-## Processes
+===
 
-vvv
-
-### Threat model
-
-vvv
-
-#### Script kiddies
+## Threat model
+<img class='stretch' src='/images/pixabay/hacker-1952027_1280.jpg'/>
 
 vvv
 
-#### Professional Hackers
+### Threat agents
+
+Note:
+* Script kiddies
+* Professional Hackers
+* Nation states
+* Competing companies
 
 vvv
 
-#### Nation states
+### Attack vectors
+<img class='stretch' src='/images/pixabay/padlock-690286_1280.jpg'/>
 
-vvv
+===
 
-#### Competing companies
+## Design reviews
+<img class='stretch' src='/images/pexels/camera-car-connection-924676.jpg'/>
 
-vvv
 
-### Design reviews
+Note:
+* Authentication & authorization mechanisms
+* Which data is stored and where & how
+* Which systems communicate with each other
 
-vvv
+===
 
-### Monitor products
+### ?Monitor products?

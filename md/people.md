@@ -1,8 +1,17 @@
-## People
+# People
+<img class='stretch' src='/images/pixabay/bonding-1985863_1280.jpg'/>
+
+===
+
+## Awareness
+
+===
+
+## Engineers
 
 vvv
 
-### Multi disciplinary teams
+### Embed security in teams
 <img class='stretch' src='/images/pixabay/notfound.jpg'/>
 
 Note:
@@ -11,12 +20,6 @@ Note:
 * Move things to earlier stage
 * Dev, Ops and often testers in the team
 * Why not add security
-
-vvv
-
-### Embed security in teams
-
-Note:
 
 vvv
 
