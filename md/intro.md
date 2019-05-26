@@ -70,11 +70,13 @@ Note:
 vvv
 
 ### Deployments
-<img class='stretch' src='/images/pixabay/notfound.jpg'/>
+* From couple of times per year
+
+to
+
+* Multiple times per day
 
 Note:
-* From couple times per year
-* To multiple times per day
 * Continuous deployment 
 * How do we make sure our apps and landscape are secure?
 * We can't have the traditional tollgate which is called 'Security'
@@ -82,13 +84,14 @@ Note:
 vvv
 
 ### DevSecOps / SecDevOps
-<img class='stretch' src='/images/pixabay/notfound.jpg'/>
+* Incorporate security in the DevOps way of working
+* Security first?
 
 Note:
-* Incorporate security in the DevOps way of working
 * As developer I know that naming is hard
 * In this case I don't think it's in the name, it's about making it work
 * Security first sounds good
+* And how about business... and testing? (see next)
 
 vvv
 
@@ -96,7 +99,6 @@ vvv
 <!-- .element: class="no-caps" -->
 
 Note:
-* And how about business... and testing?
 * Before you know it looks like 'waterfall' process in one camelcased
 * Lets focus on Security today and less on naming
 
@@ -108,6 +110,5 @@ vvv
 * Tools
 
 Note:
-* Not the silver bullet, but the only slide with bullets on it.
 * Integrate in whole software development lifecycle
 * Touches people, processes, tools
