@@ -27,3 +27,7 @@ vvv
 Note:
 * Everything TLS with good cyphers
 * PEN-test
+
+===
+
+## Select / provide libraries 

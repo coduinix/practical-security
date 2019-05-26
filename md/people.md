@@ -4,6 +4,15 @@
 ===
 
 ## Awareness
+* Whole organization
+* Organize awareness events about
+  * impact of breaches
+  * type of breaches
+
+Note:
+* From receptionist to CEO
+* Hackers will look for a weakest link
+* Could be brown-bag/lunch sessions, trainings, workshops
 
 ===
 
@@ -12,7 +21,10 @@
 vvv
 
 ### Embed security in teams
-<img class='stretch' src='/images/pixabay/notfound.jpg'/>
+* Security-savvy engineer(s) in team
+  * Keep them trained
+  * Spread knowledge
+* Look at security angle of features 
 
 Note:
 * Transition to Agile brought us multi disciplinary teams
@@ -24,8 +36,13 @@ Note:
 vvv
 
 ### Security engineers
+* Highly trained specialists
+* Raise awareness
+* Empower DevOps teams
+* Focus on the _interesting_ things
 
 Note:
 * Security is really specialized
 * Cultivate awareness
 * Oracle for security related questions
+* Do/organize PEN-tests
