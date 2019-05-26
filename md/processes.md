@@ -79,26 +79,47 @@ vvv
 vvv
 
 ### Data
-* Which data is stored
-* 
+* Which data needs to be stored
+* Where is it stored
+* Encryption
 
 Note:
+* Does it contain sensitive data
+* How sensitive is it
+* Could you store it in the cloud?
+* Do you need encryption? What type?
 * Not storing data is more secure than NOT storing
 
 vvv
 
 ### Communication
-* Which systems communicate with each other
-
+* Which systems
+* Transport-level security
 
 Note:
-* 
+* Don't connect with systems when not necessary
+* Each node could be a potential stepping stone
 
 ===
 
-## Identify & monitor critical parts
-<!-- TODO: improve --> 
-* Don't require manual security approval for every change
-* Identify & monitor critical parts of codebase
+## Monitor
+
+vvv
+
+### Identity & monitor 
+* Identify & monitor critical parts of codebase, e.g.
   * Authentication filters
   * Authorization filters
+
+vvv
+
+### Prefer notify over blocking
+* No manual security approval for every change
+* Notify if interesting things happen
+  * Authentication/Authorization comp
+  * New use of encryption or hashing
+* Trigger for discussion
+
+Note:
+* Typical reaction should be to trigger discussion
+* Only block when obviously dangerous
