@@ -28,6 +28,16 @@ vvv
 * Check central repos on:
   * Usage/downloads
   * Update frequency
+  
+vvv
+
+### For example
+* OWASP dependency checker
+* **TODO** Screenshot report
+
+Note:
+* There are some tools around
+* Most common one I've seen
 
 ===
 
@@ -36,21 +46,56 @@ vvv
 vvv
 
 ### Static code scanning
-* Scan application code while building
-* Preferably on 
+* Scan application code
+* Could range from:
+  * Simple regex
+    to
+  * Advanced code path analysis
 
 Note:
+* SQL injection
+* Use of `System.exec`
+* Weak encryption
+* Potentially leaking information (returning env vars)
+* Costs vary a lot
+
+vvv
+
+### When to scan
+* Developers machine
+* Build pipeline
+* At least regular
+
+vvv
+
+### Alerting
+* Start simple
+* Few false positives
+* Priorities based on threat model
+
+Note:
+* Start simple with things that can be detected nicely
 * Prevent alert fatigue
 * No false positives
-* Start simple with things that can be detected nicely
+
+vvv
+
+### For example
+* FindSecurityBugs
+* **TODO** Screenshot report
 
 ===
 
 ## Dynamic scanning
+* PEN-test
+* Bug bounty
+
 
 Note:
 * Everything TLS with good cyphers
-* PEN-test
+
+Note:
+
 
 ===
 
