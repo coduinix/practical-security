@@ -12,6 +12,7 @@ vvv
   * Should you?
 
 Note:
+* TODO: how much own code?
 * 25% direct dependencies
 * 75% indirect dependencies
 
@@ -24,13 +25,6 @@ vvv
 
 vvv
 
-### Trustworthiness
-* Check central repos on:
-  * Usage/downloads
-  * Update frequency
-  
-vvv
-
 ### For example
 * OWASP dependency checker
 * **TODO** Screenshot report
@@ -39,13 +33,23 @@ Note:
 * There are some tools around
 * Most common one I've seen
 
+vvv
+
+### Trustworthiness
+* Check central repos on:
+  * Usage/downloads
+  * Update frequency
+  
 ===
 
-## Code analysis
+## Static scanning
+
+Note:
+* whitebox (access to all sources)
 
 vvv
 
-### Static code scanning
+### Code scanning
 * Scan application code
 * Could range from:
   * Simple regex
@@ -69,9 +73,9 @@ vvv
 vvv
 
 ### Alerting
-* Start simple
+* Start simple, don't go wild with all rules on
 * Few false positives
-* Priorities based on threat model
+* Priorities based on high risk vulnerabilities threat model
 
 Note:
 * Start simple with things that can be detected nicely
@@ -87,15 +91,35 @@ vvv
 ===
 
 ## Dynamic scanning
-* PEN-test
-* Bug bounty
 
+Note:
+* scan against a running application
+* covers more infra-like and some application parts
+* more or less black-box
+
+vvv
+
+### Automated
+* TLS
+* Security HTTP headers
 
 Note:
 * Everything TLS with good cyphers
+* require important HTTP headers
+  * No wildcard for CSP
+
+### Manual
+* PEN-test
+* Bug bounty
 
 Note:
-
+* PEN test zoom in on specific elements
+  * Set of endpoints
+  * Specific vulnerability
+* Bug bounty
+  * (TODO check item) invite hackers to break your app, pay them when they succeed
+  * broad coverage
+* These are complementary
 
 ===
 
