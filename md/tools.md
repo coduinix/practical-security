@@ -2,46 +2,6 @@
 
 ===
 
-## Dependency scanning
-
-vvv
-
-### Dependencies
-* Direct and indirect dependencies
-* Do you trust _all_ the dependencies?
-  * Should you?
-
-Note:
-* TODO: how much own code?
-* 25% direct dependencies
-* 75% indirect dependencies
-
-vvv
-
-### Scan
-* Known vulnerabilities
-* Build time
-* Keep scanning after deployment
-
-vvv
-
-### For example
-* OWASP dependency checker
-* **TODO** Screenshot report
-
-Note:
-* There are some tools around
-* Most common one I've seen
-
-vvv
-
-### Trustworthiness
-* Check central repos on:
-  * Usage/downloads
-  * Update frequency
-  
-===
-
 ## Static scanning
 
 Note:
@@ -123,6 +83,49 @@ Note:
   * broad coverage
 * These are complementary
 
+===
+
+## Dependency scanning
+
+vvv
+
+### Dependencies
+* Bring in a lot of code
+* Direct and indirect dependencies
+* Do you trust _all_ the dependencies?
+
+Note:
+* TODO: how much own code?
+* 25% direct dependencies
+* 75% indirect dependencies
+* Should you trust the maintainers?
+  * Just engineers like you and me
+  * Not security specialists
+
+vvv
+
+### Scan
+* Known vulnerabilities
+* Build time
+* Keep scanning after deployment
+
+vvv
+
+### For example
+* OWASP dependency checker
+* **TODO** Screenshot report
+
+Note:
+* There are some tools around
+* Most common one I've seen
+
+vvv
+
+### Trustworthiness
+* Check central repos on:
+  * Usage/downloads
+  * Update frequency
+  
 ===
 
 ## Select / provide libraries
