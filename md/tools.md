@@ -108,6 +108,8 @@ Note:
 * require important HTTP headers
   * No wildcard for CSP
 
+vvv
+
 ### Manual
 * PEN-test
 * Bug bounty

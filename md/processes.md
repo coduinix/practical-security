@@ -33,6 +33,8 @@ Note:
 * Pretend there are no countermeasures yet
 * Ranking relative to each other
 
+vvv
+
 ### Countermeasures
 * Risk order
 * Input for design
