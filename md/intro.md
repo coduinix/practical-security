@@ -1,7 +1,8 @@
 
 # Practical Security
 
-<div align="right">- Hinse ter Schuur</div>
+<div align='left'><img border='0' class='stretch' src='/images/sdballs.png'/></div>
+<div align='right'>- Hinse ter Schuur</div>
 
 ===
 
@@ -35,7 +36,7 @@ Note:
 ```json
 {
   "name": "Hinse ter Schuur",
-  "role": "Developer",
+  "role": "Software Engineer",
   "company": "SDB Java",
   "expertise": ["Java", "Scala", "Security"]
 }
@@ -70,7 +71,8 @@ Note:
 vvv
 
 ### Deployments
-* From couple of times per year
+From
+* couple of times per year
 
 to
 
@@ -83,8 +85,28 @@ Note:
 
 vvv
 
+### Security
+* TODO show nice examples of security breaches
+
+vvv
+
+<!-- .slide: data-transition="none" -->
+### DevOps & Security == Problem
+
+vvv
+
+<!-- .slide: data-transition="none" -->
+### DevOps & Security != Problem
+
+vvv
+
+<!-- .slide: data-transition="none" -->
+### DevOps & Security == Solution
+
+vvv
+
 ### DevSecOps / SecDevOps
-* Incorporate security in the DevOps way of working
+* Embed security in DevOps
 * Security first?
 
 Note:

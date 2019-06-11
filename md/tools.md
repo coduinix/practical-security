@@ -1,4 +1,5 @@
 # Tools
+<img class='stretch' src='/images/pixabay/tools-1209764_1280.jpg'/>
 
 ===
 
@@ -17,6 +18,7 @@ vvv
   * Advanced code path analysis
 
 Note:
+* Most close to developers
 * SQL injection
 * Use of `System.exec`
 * Weak encryption
@@ -33,11 +35,12 @@ vvv
 vvv
 
 ### Alerting
-* Start simple, don't go wild with all rules on
+* Start simple
 * Few false positives
-* Priorities based on high risk vulnerabilities threat model
+* Priorities from threat model
 
 Note:
+* don't go wild with all rules on
 * Start simple with things that can be detected nicely
 * Prevent alert fatigue
 * No false positives
@@ -47,6 +50,48 @@ vvv
 ### For example
 * FindSecurityBugs
 * **TODO** Screenshot report
+
+===
+
+## Dependency scanning
+
+vvv
+
+### Dependencies
+<img class='stretch' src='/images/dependencies.png'/>
+
+
+Note:
+* TODO: how much own code?
+* 25% direct dependencies
+* 75% indirect dependencies
+* Should you trust the maintainers?
+  * Just engineers like you and me
+  * Not security specialists
+
+vvv
+
+### Scan
+* Known vulnerabilities
+* Build time
+* Keep scanning after deployment
+
+vvv
+
+### For example
+* OWASP dependency checker
+* **TODO** Screenshot report
+
+Note:
+* There are some tools around
+* Most common one I've seen
+
+vvv
+
+### Trustworthiness
+* Check central repos on:
+  * Usage/downloads
+  * Update frequency
 
 ===
 
@@ -82,49 +127,6 @@ Note:
   * (TODO check item) invite hackers to break your app, pay them when they succeed
   * broad coverage
 * These are complementary
-
-===
-
-## Dependency scanning
-
-vvv
-
-### Dependencies
-* Bring in a lot of code
-* Direct and indirect dependencies
-* Do you trust _all_ the dependencies?
-
-Note:
-* TODO: how much own code?
-* 25% direct dependencies
-* 75% indirect dependencies
-* Should you trust the maintainers?
-  * Just engineers like you and me
-  * Not security specialists
-
-vvv
-
-### Scan
-* Known vulnerabilities
-* Build time
-* Keep scanning after deployment
-
-vvv
-
-### For example
-* OWASP dependency checker
-* **TODO** Screenshot report
-
-Note:
-* There are some tools around
-* Most common one I've seen
-
-vvv
-
-### Trustworthiness
-* Check central repos on:
-  * Usage/downloads
-  * Update frequency
   
 ===
 
