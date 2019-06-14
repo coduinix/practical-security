@@ -48,8 +48,12 @@ Note:
 vvv
 
 ### For example
-* FindSecurityBugs
-* **TODO** Screenshot report
+* Find Security Bugs
+
+<img class='stretch' src='/images/find-security-bugs.png'/>
+
+Note:
+* Is a plugin for SpotBugs fka FindBugs
 
 ===
 

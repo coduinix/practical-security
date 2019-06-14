@@ -24,12 +24,7 @@ Note:
 * Some day you will be target
 * Directly or as stepping stone
 * What might be the thing they're looking for
-* Don't lean back because you have implemented a login
-
-vvv
-
-<small>https://twitter.com/bendhalpern/status/1111305654017368064</small>
-<video class='stretch' style='margin-bottom: 10px;' src='/videos/client-side-small.mp4'></video>
+* Don't lean relax because you have implemented a login
 
 ===
 
@@ -38,9 +33,17 @@ vvv
 * Prevent alert fatigue
 
 Note:
+* Sounds like a contradiction
 * Don't protect cookies with a vault
 * But do think about security
+* Tough to balance
 * To much false positives will cause people to workaround instead of valuing alerts
+
+===
+
+### References
+* Threat Modelling Express: https://www.infoq.com/articles/threat-modeling-express/
+* find
 
 ===
 

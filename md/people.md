@@ -21,7 +21,7 @@ Note:
 vvv
 
 ### Embed security in teams
-* Security-savvy engineer(s) in team
+* Security-minded engineer(s) in team
   * Keep them trained
   * Spread knowledge
 * Look at security angle of features 

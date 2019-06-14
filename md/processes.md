@@ -19,9 +19,11 @@ Note:
 * Professional Hackers, just for:
   * the money
   * data
-* Hacktivists
+* Hacktivists, because they care about environment
 * Nation states
 * Competing companies
+* Stepping stone: supply chains
+* Just bad luck :(
 
 vvv
 
@@ -62,12 +64,14 @@ vvv
 
 ### Methodologies
 * A lot on the web
-* Can start lightweight: Threat Modelling Express
-  <small>https://www.infoq.com/articles/threat-modeling-express/</small> 
+* Can start lightweight: Threat Modelling Express 
 
 ===
 
 ## Design reviews
+
+Note:
+* With focus on security 
 
 vvv
 

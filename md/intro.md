@@ -1,8 +1,10 @@
 
 # Practical Security
+<div align='center'>- Hinse ter Schuur</div>
 
-<div align='left'><img border='0' class='stretch' src='/images/sdballs.png'/></div>
-<div align='right'>- Hinse ter Schuur</div>
+<span align='center'>
+<img class='no-border' width="30%" data-src='/images/SDBBannerProf.JPG'/>
+</span>
 
 ===
 
@@ -46,6 +48,8 @@ Note:
 * I'm a DEV engineer
 * Which happens to like security stuff
 * Not a security engineer
+* Worked for small and big companies
+* With and without security department
 
 ===
 
@@ -56,6 +60,11 @@ vvv
 
 ### Disclaimer (1)
 > ... It's not a complete approach, just things which I think could contribute to a practical approach to security.
+
+Note:
+* A security talk can be a frightening experience... for the audience
+* Because of hack demonstrations
+* This talk will be a story of hope
 
 ===
 
