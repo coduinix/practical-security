@@ -21,6 +21,7 @@
 #footer-left > img, #footer-left small{
     vertical-align: middle;
     padding-right: 10px;
+    font-size: 3.25vh;
 }
 
 h1.no-caps, h2.no-caps, h3.no-caps, h4.no-caps, h5.no-caps, h6.no-caps {
