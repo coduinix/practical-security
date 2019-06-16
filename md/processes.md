@@ -113,19 +113,26 @@ Note:
 vvv
 
 ### Identity & monitor 
-* Identify & monitor critical parts of codebase, e.g.
+* Identify critical parts of codebase
+* Monitor
+* Notify
+  
+Note:
+* Critical parts like:
   * Authentication filters
   * Authorization filters
+* Preferably automated
 
 vvv
 
-### Prefer notify over blocking
+### Notify vs block
 * No manual security approval for every change
 * Notify if interesting things happen
-  * Authentication/Authorization comp
-  * New use of encryption or hashing
 * Trigger for discussion
 
 Note:
 * Typical reaction should be to trigger discussion
 * Only block when obviously dangerous
+* Interesting things:
+  * Authentication/Authorization comp
+  * New use of encryption or hashing

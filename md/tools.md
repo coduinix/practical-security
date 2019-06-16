@@ -34,12 +34,13 @@ vvv
 
 vvv
 
-### Alerting
+### Alerting/blocking
 * Start simple
 * Few false positives
 * Priorities from threat model
 
 Note:
+* These should block (in contrast to logical changes in monitoring)
 * don't go wild with all rules on
 * Start simple with things that can be detected nicely
 * Prevent alert fatigue
@@ -127,6 +128,8 @@ vvv
 * Bug bounty
 
 Note:
+* It's a tool, but not automated
+  * There are tools for this.
 * PEN test zoom in on specific elements
   * Set of endpoints
   * Specific vulnerability
