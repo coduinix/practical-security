@@ -95,7 +95,9 @@ Note:
 vvv
 
 ### Security
-* TODO show nice examples of security breaches
+* Is important
+* Is a challenge
+* Failure destroys trust
 
 vvv
 

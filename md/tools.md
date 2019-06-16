@@ -53,7 +53,7 @@ vvv
 <img class='stretch' src='/images/find-security-bugs.png'/>
 
 Note:
-* Is a plugin for SpotBugs fka FindBugs
+* Is a plugin for SpotBugs fomerly known as FindBugs
 
 ===
 
@@ -66,7 +66,6 @@ vvv
 
 
 Note:
-* TODO: how much own code?
 * 25% direct dependencies
 * 75% indirect dependencies
 * Should you trust the maintainers?
@@ -84,11 +83,14 @@ vvv
 
 ### For example
 * OWASP dependency checker
-* **TODO** Screenshot report
+
+<img class='stretch' src='/images/dependency-check.png'/>
+
 
 Note:
 * There are some tools around
 * Most common one I've seen
+* Probably more on that in Marten's talk
 
 vvv
 
@@ -116,6 +118,7 @@ Note:
 * Everything TLS with good cyphers
 * require important HTTP headers
   * No wildcard for CSP
+* Probably more on that in Marten's talk
 
 vvv
 
@@ -128,7 +131,7 @@ Note:
   * Set of endpoints
   * Specific vulnerability
 * Bug bounty
-  * (TODO check item) invite hackers to break your app, pay them when they succeed
+  * invite hackers to break your app, pay them when they succeed
   * broad coverage
 * These are complementary
   

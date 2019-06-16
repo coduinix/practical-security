@@ -41,12 +41,6 @@ Note:
 
 ===
 
-### References
-* Threat Modelling Express: https://www.infoq.com/articles/threat-modeling-express/
-* find
-
-===
-
 ## Questions
 * Which questions do you have?
 * Just ask:
@@ -54,3 +48,11 @@ Note:
   * Via Twitter - [@coduinix](https://twitter.com/coduinix)
 
 Note:
+* I'll be around after talk
+
+===
+
+### References
+* Threat Modelling Express: https://www.infoq.com/articles/threat-modeling-express/
+* Find Security Bugs: https://find-sec-bugs.github.io/
+* Dependency Check: https://jeremylong.github.io/DependencyCheck/
