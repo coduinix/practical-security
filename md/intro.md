@@ -59,7 +59,7 @@ Note:
 vvv
 
 ### Disclaimer (1)
-> ... It's not a complete approach, just things which I think could contribute to a practical approach to security.
+> ... It's not a complete approach, just key elements for a practical approach on security.
 
 Note:
 * A security talk can be a frightening experience... for the audience
@@ -80,12 +80,10 @@ Note:
 vvv
 
 ### Deployments
-From
-* couple of times per year
-
-to
-
-* Multiple times per day
+* From:
+  * Couple of times per year
+* To:
+  * Multiple times per day
 
 Note:
 * Continuous deployment 

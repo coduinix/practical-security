@@ -94,7 +94,11 @@ Note:
 * How sensitive is it
 * Could you store it in the cloud?
 * Do you need encryption? What type?
-* Not storing data is more secure than NOT storing
+
+vvv
+
+> Most secure way to store data is to NOT store the data
+
 
 vvv
 
