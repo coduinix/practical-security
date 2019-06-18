@@ -1,5 +1,5 @@
 # People
-<img class='stretch' src='/images/pixabay/bonding-1985863_1280.jpg'/>
+<img class='stretch' src='../images/pixabay/bonding-1985863_1280.jpg'/>
 
 ===
 

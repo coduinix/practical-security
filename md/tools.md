@@ -1,5 +1,5 @@
 # Tools
-<img class='stretch' src='/images/pixabay/tools-1209764_1280.jpg'/>
+<img class='stretch' src='../images/pixabay/tools-1209764_1280.jpg'/>
 
 ===
 
@@ -51,7 +51,7 @@ vvv
 ### For example
 * Find Security Bugs
 
-<img class='stretch' src='/images/find-security-bugs.png'/>
+<img class='stretch' src='../images/find-security-bugs.png'/>
 
 Note:
 * Is a plugin for SpotBugs fomerly known as FindBugs
@@ -63,7 +63,7 @@ Note:
 vvv
 
 ### Dependencies
-<img class='stretch' src='/images/dependencies.png'/>
+<img class='stretch' src='../images/dependencies.png'/>
 
 
 Note:
@@ -85,7 +85,7 @@ vvv
 ### For example
 * OWASP dependency checker
 
-<img class='stretch' src='/images/dependency-check.png'/>
+<img class='stretch' src='../images/dependency-check.png'/>
 
 
 Note:
