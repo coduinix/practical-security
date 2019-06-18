@@ -1,5 +1,5 @@
 # Wrapping up
-<img class='stretch' src='../images/pixabay/bale-457709_1280.jpg'/>
+<img class='stretch' src='images/pixabay/bale-457709_1280.jpg'/>
 
 ===
 

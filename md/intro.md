@@ -3,13 +3,13 @@
 <div align='center'>- Hinse ter Schuur</div>
 
 <span align='center'>
-<img class='no-border' width="30%" data-src='../images/SDBBannerProf.JPG'/>
+<img class='no-border' width="30%" data-src='images/SDBBannerProf.JPG'/>
 </span>
 
 ===
 
 ## Who doesn't like cookies
-<img class='stretch' src='../images/pixabay/cookie-3790631_1280.jpg'/>
+<img class='stretch' src='images/pixabay/cookie-3790631_1280.jpg'/>
 
 Note:
 * Don't put cookies on the kitchen counter
@@ -24,7 +24,7 @@ Note:
 vvv
 
 ### A bit overkill?
-<img class='stretch' src='../images/pixabay/safe-913452_1280.jpg'/>
+<img class='stretch' src='images/pixabay/safe-913452_1280.jpg'/>
 
 Note:
 * This is overkill
@@ -69,7 +69,7 @@ Note:
 ===
 
 ## DevOps
-<img class='stretch' src='../images/pixabay/server-1235959_1280.jpg'/>
+<img class='stretch' src='images/pixabay/server-1235959_1280.jpg'/>
 
 Note:
 * Combine software development and operations

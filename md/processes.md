@@ -1,5 +1,5 @@
 # Processes
-<img class='stretch' src='../images/pexels/camera-car-connection-924676.jpg'/>
+<img class='stretch' src='images/pexels/camera-car-connection-924676.jpg'/>
 
 ===
 
