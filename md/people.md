@@ -32,6 +32,7 @@ Note:
 * Move things to earlier stage
 * Dev, Ops and often testers in the team
 * Why not add security
+* security champion/ ninja
 
 vvv
 
